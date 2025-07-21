@@ -1,4 +1,5 @@
-module id_sender
+module github.com/Huang-gj/id_sender
+
 
 go 1.24
 
