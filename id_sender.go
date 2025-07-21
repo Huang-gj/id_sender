@@ -1,8 +1,8 @@
 package id_sender
 
 import (
+	"github.com/Huang-gj/id_sender/model"
 	"github.com/zeromicro/go-zero/core/stores/sqlx"
-	"id_sender/model"
 )
 
 func Sender(datasource string, biz_tag string) int64 {
